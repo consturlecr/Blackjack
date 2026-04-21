@@ -1,0 +1,9 @@
+{
+  "name": "Base Blackjack 21",
+  "short_name": "Blackjack",
+  "description": "Blackjack game on Base network",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0052FF",
+  "background_color": "#000000"
+}
